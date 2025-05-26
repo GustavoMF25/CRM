@@ -31,7 +31,7 @@ class MailableTemplateTest extends TestCase
             'html_template' => SampleMailTemplate::defaultHtmlTemplate(),
             'text_template' => SampleMailTemplate::defaultTextMessage(),
             'mailable' => SampleMailTemplate::class,
-            'locale' => 'pt_BR',
+            'locale' => 'en',
         ]);
     }
 

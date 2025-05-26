@@ -93,11 +93,11 @@ return [
     |
     */
 
-    'locale' => 'pt_BR',
+    'locale' => 'en',
 
-    'fallback_locale' => 'pt_BR',
+    'fallback_locale' => 'en',
 
-    'faker_locale' => 'pt_BR',
+    'faker_locale' => 'en_US',
 
     /*
     |--------------------------------------------------------------------------

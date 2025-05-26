@@ -42,7 +42,7 @@ class DocumentFactory extends Factory
             'owner_assigned_date' => now(),
             'requires_signature' => false,
             'status' => DocumentStatus::DRAFT->value,
-            'locale' => 'pt_BR',
+            'locale' => 'en',
             'data' => [],
         ];
     }
