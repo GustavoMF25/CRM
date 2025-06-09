@@ -43,7 +43,7 @@ return [
         ],
 
         'functions' => [
-            // 'symlink',
+            'symlink',
             'tmpfile',
             'file', // dompdf
             'ignore_user_abort',
